@@ -12,7 +12,7 @@ export const dataService = {
 }
 
 export const apiConfig = {
-    backendURL: "http://localhost:3001"
+    backendURL: "https://saisanketh-ravva.com/"
 }
 function admin_data() {
 
